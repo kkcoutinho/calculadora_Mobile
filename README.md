@@ -2,7 +2,9 @@
 # Projeto: Testes Automatizados de Calculadora
 
 ## Descrição
-Este projeto automatiza testes de uma calculadora utilizando **Appium**, **Appium Inspector** e **WebDriverIO**. Os testes validam operações matemáticas básicas e o funcionamento da aplicação.
+Este projeto automatiza testes de uma calculadora utilizando **Appium**, **Appium Inspector** **WebDriverIO**, e
+**Android Studio**.
+Os testes validam operações matemáticas básicas e o funcionamento da aplicação.
 
 ## Estrutura do Projeto
 ```
@@ -20,7 +22,8 @@ Este projeto automatiza testes de uma calculadora utilizando **Appium**, **Appiu
 - **Appium** - Automação de aplicativos móveis  
 - **Appium Inspector** - Inspeção de elementos e interações  
 - **WebDriverIO** - Execução dos testes automatizados  
-- **TypeScript** - Superset do JavaScript que adiciona tipagem estática e melhora a estruturação do código  
+- **TypeScript** - Superset do JavaScript que adiciona tipagem estática e melhora a estruturação do código
+- **Android Studio** para emulação do ambiente mobile e execução dos testes  
 
 ## Como Executar os Testes
 1. Instale as dependências:
@@ -38,7 +41,7 @@ Este projeto automatiza testes de uma calculadora utilizando **Appium**, **Appiu
 
 ## Veja o teste rodando 🎥  
 Assista ao teste em execução:  
-[🔗 Vídeo do teste](https://1drv.ms/v/c/f9b6ddc2788df047/EWQc4TX37AtFnF-L46LekLMBHzz0ezh6-8tmXU8Tf6HlJA?e=relfYF)
+[🔗 Vídeo do teste](https://1drv.ms/v/c/f9b6ddc2788df047/ESks0pBYw5BMvkfXQz2BnjQBkmp0lAV81AEfpuUlkD7iCA?e=LbbD9I)
 
 ## Autor(a)
 Este projeto foi desenvolvido por **Katia**. 🚀
